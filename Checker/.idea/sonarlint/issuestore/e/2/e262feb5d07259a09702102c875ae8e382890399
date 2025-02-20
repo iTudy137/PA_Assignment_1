@@ -1,0 +1,12 @@
+
+`	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+f	java:S116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¢ÓÛüÿÿÿÿ
+a	java:S116"LRename this field "P" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½®­¦
+a	java:S116"LRename this field "C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¶óÞ
+W
+java:S1659"BDeclare "right" and all following declarations on a separate line.(¯¤©y
+l
+java:S34573"Q%n should be used in place of \n to produce the platform-specific line separator.(˜Üøúüÿÿÿÿ

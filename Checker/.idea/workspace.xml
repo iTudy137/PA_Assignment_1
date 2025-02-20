@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1c9c750-c7da-46e5-9fb5-e4627dd36f7f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AlimentareServere/AlimentareServere.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ColorareDubioasa/ColorareDubioasa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compresie cica/Compresie cica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OferteDoi/OferteDoi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PODM/PODM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParolaCriptata/ParolaCriptata.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParolaCriptata/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Servere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp.errors" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java.errors" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/0-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/1-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/10-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/11-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/12-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/13-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/14-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/15-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/16-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/17-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/18-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/19-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/2-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/20-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/21-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/22-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/23-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/24-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/3-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/4-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/5-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/6-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/7-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/8-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_tests/servere/out/9-servere.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/.idea/check_public2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/cpp.errors" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/java.errors" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/0-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/1-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/10-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/11-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/12-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/13-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/14-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/15-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/16-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/17-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/18-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/19-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/2-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/20-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/21-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/22-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/23-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/24-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/25-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/26-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/27-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/28-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/29-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/3-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/30-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/31-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/32-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/33-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/34-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/4-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/5-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/6-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/7-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/8-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check_public2/public_tests/numarare/out/9-numarare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oferrte/Oferte.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pa_problem/pa_problem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemaColorare/problemaColorare.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testNumarare.java/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testNumarare.java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testNumarare.java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testNumarare.java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testNumarare.java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testNumarare.java/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testNumarare.java/testNumarare.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../POO/TEMAPOO/TEMAPOO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../POO/etapa2Poo/oficial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../POO/examenPoo/.idea/poo_lab9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../POO/examenPoo/AnimalShelter/AnimalShelter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../POO/examenPoo/BuilderPattern/BuilderPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../POO/examenPoo/CommandPattern/CommandPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../POO/examenPoo/PacMan/PacMan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../POO/examenPoo/Strategy_Factory/Strategy_Factory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../POO/examenPoo/diverse/diverse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../POO/examenPoo/fileSystem/fileSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../POO/examenPoo/problema/problema.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../POO/examenPoo/problemaExamen/problemaExamen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../POO/examenPoo/problemaExamenPoo/problemaExamenPoo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../POO/poo_lab11/.idea/poo_lab11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../POO/proiectpoo/oop-project-2023-main/oop-project-2023-main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.~lock.Untitled 1.odt#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Untitled 1.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Untitled 1.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assignment-memory-allocator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assignment-mini-libc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oop-labs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../operating-systems" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2eS3RTA4HTyvUglcAMPQVnRwSOi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Servere.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/itudy/Desktop/PA&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Servere" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Servere" />
+      <module name="check_public (1)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Servere" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1c9c750-c7da-46e5-9fb5-e4627dd36f7f" name="Changes" comment="" />
+      <created>1711884143983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711884143983</updated>
+      <workItem from="1711884145050" duration="2917000" />
+      <workItem from="1711893361942" duration="108000" />
+      <workItem from="1711915599342" duration="1865000" />
+      <workItem from="1711989465393" duration="2463000" />
+      <workItem from="1711991953795" duration="63000" />
+      <workItem from="1711992074391" duration="76000" />
+      <workItem from="1711992193308" duration="134000" />
+      <workItem from="1712045548825" duration="451000" />
+      <workItem from="1715623718606" duration="4773000" />
+      <workItem from="1715675289964" duration="613000" />
+      <workItem from="1715680148867" duration="2730000" />
+      <workItem from="1715683463749" duration="358000" />
+      <workItem from="1715684761821" duration="1131000" />
+      <workItem from="1715761291789" duration="612000" />
+      <workItem from="1715780147301" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
